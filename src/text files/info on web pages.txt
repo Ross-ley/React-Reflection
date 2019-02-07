@@ -1,0 +1,51 @@
+spelling zone
+/*
+
+*/
+
+text that cant be deleted :
+
+
+need to do:
+
+
+REDO THE COLOR AS ITS BAD AND NEED TO BE MADE MORE EYE PLEASING
+colour plait:
+header bar background colour: #5574ff <light shade blue />
+header bar active: #0832be <blue />
+body background: whitesmoke
+text: black
+links: black
+links hover:  #241188 <dark blue />
+link buttons: #6baaea <light blue />
+colour I like: #9fdaf5 <turquoise>
+
+
+KEY-
+H - Home
+SG - Studio Ghibli
+K - Kitsu
+ANN - Anime News Network
+Y - yes
+N - NO
+FA - Final Answer
+? - Unsure
+wip - work in progress
+
+check list:
+are you happy with the layout: (H: Y) (SG: Y) (K: Y) (ANN: Y) (FA: Y) <complete>
+are you happy with the colour plait: (H: Y) (SG: Y) (K: Y) (ANN: Y) (FA: N) <wip>
+are you happy with the design: (H: N) (SG: Y) (K: Y) (ANN: Y) (FA: N) <wip>
+dose everything work: (H: Y) (SG: Y) (K: Y) (ANN: Y) (FA: Y) <complete>
+
+
+feed back:
+
+looks old fashion <tryed to make look more up to date>
+try mimicking a more up to date web sight <cant find a sight which alows me the best use of the design aspect>
+try making it more inline < I have made it more inline other that the kitsu page other wise i run into more problems >
+try a background cover <I don't think the page will benafit from a background image>
+try putting the txt in boxes for home <I have added in the boxes but could use with better background color>
+
+make it so that the image overlap is fixed < I have done this but it leaves a lot of white space>
+try and make it so that theres a button that you can click to show the information <I have made buttons to work and gotten them so that they each open when you click that one but they don't show and are not linked up to the api yet>
